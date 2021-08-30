@@ -1,5 +1,6 @@
 ### Hi there 👋
-https://github.githubassets.com/images/mona-whisper.gif
+![mona-whisper](https://user-images.githubusercontent.com/74137603/131349732-cc83892e-232b-447a-9040-4f2b2c5d9307.gif)
+
 <!--
 **prog3r/prog3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
